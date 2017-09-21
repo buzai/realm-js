@@ -1,4 +1,4 @@
-vNext (TBD)
+X.Y.Z Release notes
 =============================================================
 ### Breaking changes
 * None
@@ -7,7 +7,8 @@ vNext (TBD)
 * Add support for sorting Lists and Results on values from linked objects.
 
 ### Bug fixes
-* None
+* Fixed port conflict between RN >= 0.48 inspector proxy and RPC server used for Chrome debugging (#1294).
+
 
 2.0.0 Release notes (2017-9-19)
 =============================================================
